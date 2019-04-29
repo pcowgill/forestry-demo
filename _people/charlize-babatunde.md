@@ -1,17 +1,21 @@
 ---
-title: Charlize Babatunde
+title: Paul Cowgill
 date: 2017-11-14 10:54:31 +0000
 role:
 - staff
-thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
-sub_heading: Administration
+thumbnail: "/assets/2019/04/29/PaulCowgillNewestProfilePictureCroppedEvenMore.jpg"
+sub_heading: Createad Tasit project // Founded Tasit Labs
 email: ''
-linkedin: ''
-layout: 'person'
+linkedin: https://www.linkedin.com/in/pcowgill/
+layout: person
+
 ---
+# I'm a software engineer, and I'm the founder and CEO of Tasit Labs.
 
-Charlize Babatunde joined Belkirk in 2015 as Head of Administration.
+I created a project called [Tasit](https://tasit.io) and founded a company called Tasit Labs to serve as the initial primary contributor to the project.
 
-Charlize graduated with a master's degree in Industrial and Labor Relations and master's degree in Business Administration from Cornell in 2008, and worked with various non-profits before joining Belkirk..
+Tasit Labs makes mobile Ethereum dapps. The Tasit project consists of two major initiatives that dovetail together: the [Tasit SDK](https://github.com/tasitlabs/tasitsdk) (for developers) and the [Tasit mobile apps](https://github.com/tasitlabs/tasit) (for pretty much anyone who uses a smartphone). Tasit Labs makes money by offering freemium features in our 3rd-party mobile apps for popular Ethereum dapps.
 
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+As for myself, I'm a software engineer, engineering leader, and entrepreneur. I specialize in blockchain and crypto - Ethereum, to be specific. I've worked on a few "big" smart contract audits including OpenZeppelin 2.0. Previously, I was the first employee and CTO at a YC-backed B2C IoT startup, Edyn.
+
+I'm [@paulcowgill on Twitter](https://twitter.com/paulcowgill). You also can reach me at paul at cowgill dot io.
