@@ -3,10 +3,7 @@ title: Home
 banner_image: ''
 layout: landing-page
 heading: Paul Cowgill's Test Blog
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services: []
 sub_heading: Playing around with forestry.io
 textline: This isn't a real blog just yet.
