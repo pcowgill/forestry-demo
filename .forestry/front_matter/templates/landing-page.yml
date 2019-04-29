@@ -12,11 +12,11 @@ fields:
 - type: text
   label: Hero Heading
   name: heading
-  default: Paul Cowgill
+  default: Belkirk College
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Paul Cowgill's blog
+  default: Engineering and Health Sciences
 - type: file
   name: banner_image
   label: Hero Image
