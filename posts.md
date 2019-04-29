@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Home
 layout: posts
 sub_heading: ''
 description: Articles by Belkirk College
